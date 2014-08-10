@@ -1,0 +1,20 @@
+{
+    "title": "Energy",
+    "name": "energy",
+    "description": "Energy Theme for Brackets. Dark and minimal, inspired by that stuff they drink in Tron. A Brackets original.",
+    "version": "1.0.0",
+    "author": "larz0 (https://github.com/larz0)",
+    "homepage": "https://github.com/Brackets-Themes/Energy",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:Brackets-Themes/Energy.git"
+    },
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.42.0"
+    },
+    "theme": {
+        "file": "energy.css",
+        "dark": true
+    }
+}
